@@ -35,10 +35,8 @@ The challenge contribution of the Sofahopper Chatbot project lies in addressing 
   <h3>Finding the project interesting?</h3>
   Learn More about it on our <a href="https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/wiki">Wiki</a>!
 
-*Thank you for your interest in helping homeless teens!*
-
 </div>
-
+*Thank you for your interest in helping homeless teens!*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div class=footer>
   <h4>All the best wishes you our munich based Team:</h4>
