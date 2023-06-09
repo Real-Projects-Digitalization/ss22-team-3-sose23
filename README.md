@@ -38,7 +38,7 @@ The challenge contribution of the Sofahopper Chatbot project lies in addressing 
 </div>
 
 *Thank you for your interest in helping homeless teenangers!*
-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 <div class=footer>
   <h4>All the best wishes you our munich based Team:</h4>
   <table>
