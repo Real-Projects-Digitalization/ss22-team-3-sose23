@@ -28,11 +28,10 @@ The Sofahopper Chatbot project aims to provide a smart solution for addressing t
 The challenge contribution of the Sofahopper Chatbot project lies in addressing the lack of accessible support for homeless teenagers by providing a 24/7 AI-based chatbot to assist them in finding safe accommodations and efficiently connect them with social workers.
   <br>
 <h3>Demonstration</h3>
-  <br>
   <form action="https://www.youtube.com/watch?v=zO9Bxgbahk8">
     <input type="submit" value="Watch on YouTube" />
 </form>
-
+<br>
   Watch on GitHub:
   <br>
 
