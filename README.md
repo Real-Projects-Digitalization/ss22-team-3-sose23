@@ -26,9 +26,14 @@ We created our bot as human like as possible, to ensure the teenagers will feel 
   <h2>Abstract and Challenge Contribution</h2>
 The Sofahopper Chatbot project aims to provide a smart solution for addressing the needs of homeless teenagers in Germany by facilitating their access to help and supporting social workers in efficiently handling their requests. Our approach involved identifying the starting point of the assistance process and devising methods to expedite it. Through the development of a chatbot, we conducted comprehensive research, including creating a business canvas, storyboard, and empathy map. The implementation phase is currently underway, and while the chatbot is not live yet, we anticipate significant positive results in terms of expedited assistance and improved support for both homeless teenagers and social workers.
 The challenge contribution of the Sofahopper Chatbot project lies in addressing the lack of accessible support for homeless teenagers by providing a 24/7 AI-based chatbot to assist them in finding safe accommodations and efficiently connect them with social workers.
+  <br>
+<h3>Demonstartion</h3>
 
 
-  <h3>Test the Sofahopper Chatbot.</h3>
+https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/80974503/087b72c7-4839-4643-a2a4-740a0d4d5e25
+
+<br>
+  <h3>Test the Sofahopper Chatbot yourself.</h3>
   <a href="https://colab.research.google.com/drive/1b_stskb7kff2QAUtDDr0rnjTJL5sasC3?usp=sharing">Chat with it</a>
   or have a look at the <a href="https://www.figma.com/file/a1rHOyUicAiMoaJP9X7UfU/Untitled?type=design&node-id=0%3A1&t=Kj6xIRN6UhCbZvnw-1">UI</a>!
 
@@ -36,12 +41,11 @@ The challenge contribution of the Sofahopper Chatbot project lies in addressing 
   Learn More about it on our <a href="https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/wiki">Wiki</a>!
 
 </div>
-</br>
+<br>
 <br>
 <hr>
 <p>Thank you for your interest in helping homeless teenangers!</p>
 <hr>
-<br>
 <br>
 <div class=footer>
   <h4>All the best wishes you our munich based Team:</h4>
