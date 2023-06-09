@@ -23,7 +23,7 @@ To ensure that every Teenager has the chance to get the help he needs, we came u
 
 We created our bot as human like as possible, to ensure the teenagers will feel valued and save. But also we made sure that they will always know, that they are talking to a bot so they wont feel lied to. That paired with our simple and minimalistic design, will not only help them the best way possible, it also will give them a nice and welcoming feeling.
 
-  <h2>Abstract and Challenge Contrbution</h2>
+  <h2>Abstract and Challenge Contribution</h2>
 The Sofahopper Chatbot project aims to provide a smart solution for addressing the needs of homeless teenagers in Germany by facilitating their access to help and supporting social workers in efficiently handling their requests. Our approach involved identifying the starting point of the assistance process and devising methods to expedite it. Through the development of a chatbot, we conducted comprehensive research, including creating a business canvas, storyboard, and empathy map. The implementation phase is currently underway, and while the chatbot is not live yet, we anticipate significant positive results in terms of expedited assistance and improved support for both homeless teenagers and social workers.
 The challenge contribution of the Sofahopper Chatbot project lies in addressing the lack of accessible support for homeless teenagers by providing a 24/7 AI-based chatbot to assist them in finding safe accommodations and efficiently connect them with social workers.
 
