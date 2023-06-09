@@ -27,14 +27,10 @@ We created our bot as human like as possible, to ensure the teenagers will feel 
 The Sofahopper Chatbot project aims to provide a smart solution for addressing the needs of homeless teenagers in Germany by facilitating their access to help and supporting social workers in efficiently handling their requests. Our approach involved identifying the starting point of the assistance process and devising methods to expedite it. Through the development of a chatbot, we conducted comprehensive research, including creating a business canvas, storyboard, and empathy map. The implementation phase is currently underway, and while the chatbot is not live yet, we anticipate significant positive results in terms of expedited assistance and improved support for both homeless teenagers and social workers.
 The challenge contribution of the Sofahopper Chatbot project lies in addressing the lack of accessible support for homeless teenagers by providing a 24/7 AI-based chatbot to assist them in finding safe accommodations and efficiently connect them with social workers.
   <br>
-<h3>Demonstartion</h3>
-  <div class=video>
-<video width="420" height="315"
-src="https://youtu.be/zO9Bxgbahk8">
-</video>
-  </div>
-
-https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/80974503/087b72c7-4839-4643-a2a4-740a0d4d5e25
+<h3>Demonstration</h3>
+  <button type="button" href="https://youtu.be/zO9Bxgbahk8">Click</button>
+  <br>
+  <a href="https://youtu.be/zO9Bxgbahk8"> Watch now</a>
 
 <br>
   <h3>Test the Sofahopper Chatbot yourself.</h3>
@@ -67,7 +63,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Presenting, Strategical planning, Gituhb content
       </td>
-      <td> Business Informatic student at HM
+      <td> Business Administration student at HM
       </td>
     </tr>
       <tr>
@@ -75,7 +71,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Coding, Presenting, Github content, Srategical Planning
       </td>
-      <td> Business Informatic student at HM
+      <td> Business Administration student at HM
       </td>
     </tr>
     <tr>
@@ -83,7 +79,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Coding, Github content
       </td>
-      <td> Business Informatic student at HM
+      <td> Business Informatics student at HM
       </td>
     </tr>
     <tr>
@@ -99,7 +95,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Github content,Srategical Planning, Storyboard, Web development
       </td>
-      <td> Business Informatic student at HM
+      <td> Business Informatics student at HM
       </td>
     </tr>
   </table>
