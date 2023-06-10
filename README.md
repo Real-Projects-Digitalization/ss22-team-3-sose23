@@ -86,7 +86,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
     <tr>
        <td> Mohammed Khalil
       </td>
-      <td> Coding, Github content
+      <td> Coding, Github content, Srategical Planning
       </td>
       <td> Business Informatics student at HM
       </td>
