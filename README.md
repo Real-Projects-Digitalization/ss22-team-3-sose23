@@ -62,6 +62,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
     <tr>
       <th> Teammember
       </th>
+      <th> Role
+      </th>
       <th> Tasks
       </th>
       <th> Background
@@ -69,6 +71,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
     </tr>
     <tr>
       <td> Jasmin Oezalp
+      </td>
+      <td> Monitor/Evaluator
       </td>
       <td> Presenting, Strategical planning, Gituhb content
       </td>
@@ -78,6 +82,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       <tr>
        <td> Arnold Roemer
       </td>
+        <td> Leader
+      </td>
       <td> Coding, Presenting, Github content, Srategical Planning
       </td>
       <td> Business Administration student at HM
@@ -85,6 +91,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
     </tr>
     <tr>
        <td> Mohammed Khalil
+      </td>
+      <td> Shaper
       </td>
       <td> Coding, Github content, Srategical Planning
       </td>
@@ -94,6 +102,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
     <tr>
        <td> Felix Wilhelm
       </td>
+      <td> Coordinator
+      </td>
       <td> Presenting, Srategical Planning, Github Content, Administrative functions
       </td>
       <td> Business Administration student at HM
@@ -101,6 +111,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
     </tr>
     <tr>
       <td> Bastian Andraschko
+      </td>
+       <td> Creative
       </td>
       <td> Github content,Srategical Planning, Storyboard, Web development
       </td>
