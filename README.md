@@ -70,7 +70,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </th>
     </tr>
     <tr>
-      <td> Jasmin Oezalp
+      <td> Jasmin Özalp
       </td>
       <td> Monitor/Evaluator
       </td>
