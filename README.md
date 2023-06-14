@@ -44,7 +44,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
 <br>
   <h3>Test the Sofahopper Chatbot yourself.</h3>
   <a href="https://colab.research.google.com/drive/1b_stskb7kff2QAUtDDr0rnjTJL5sasC3?usp=sharing">Chat with it</a>
-  or have a look at the <a href="https://www.figma.com/proto/lueylUFbl2kDprz9zr2UdM/Sofahopper-Chatbot?type=design&node-id=5-14574&scaling=scale-down&page-id=1%3A15262&starting-point-node-id=2448%3A6816">UI</a>!
+  or have a look at the <a href="https://www.figma.com/proto/lueylUFbl2kDprz9zr2UdM/Sofahopper-Chatbot?type=design&node-id=1-15262&scaling=scale-down&starting-point-node-id=2448%3A6816">UI</a>!
 
   <h3>Finding the project interesting?</h3>
   Learn More about it on our <a href="https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/wiki">Wiki</a>!
