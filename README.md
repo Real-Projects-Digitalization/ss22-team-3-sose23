@@ -68,6 +68,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </th>
       <th> Background
       </th>
+      <th> Contact
+      </th>
     </tr>
     <tr>
       <td> Jasmin Özalp
@@ -77,6 +79,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       <td> Presenting, Strategical planning, Gituhb content
       </td>
       <td> Business Administration student at HM
+      </td>
+      <td>
       </td>
     </tr>
       <tr>
@@ -88,6 +92,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Business Administration student at HM
       </td>
+      <td>
+      </td>
     </tr>
     <tr>
        <td> Mohammed Khalil
@@ -97,6 +103,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       <td> Coding, Github content, Srategical Planning
       </td>
       <td> Business Informatics student at HM
+      </td>
+      <td>
       </td>
     </tr>
     <tr>
@@ -108,6 +116,10 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Business Administration student at HM
       </td>
+      <td><a href="mailto:felixwilhelm1@kpmg.com">eMail</a><br>
+          <a href="https://www.linkedin.com/in/felix-wilhelm-1216a1207/">LinkedIn</a><br>
+          <a href="https://www.xing.com/profile/Felix_Wilhelm16/cv">Xing</a>
+      </td>
     </tr>
     <tr>
       <td> Bastian Andraschko
@@ -117,6 +129,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       <td> Github content,Srategical Planning, Storyboard, Web development
       </td>
       <td> Business Informatics student at HM
+      </td>
+      <td>
       </td>
     </tr>
   </table>
