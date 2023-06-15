@@ -90,7 +90,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
         <td> Leader
       </td>
-      <td> Coding, Presenting, Github content, Srategical Planning
+      <td> Coding, Presenting, Github content, Strategical Planning
       </td>
       <td> Business Administration student at HM
       </td>
@@ -102,7 +102,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Shaper
       </td>
-      <td> Coding, Github content, Srategical Planning
+      <td> Coding, Github content, Strategical Planning
       </td>
       <td> Business Informatics student at HM
       </td>
@@ -116,7 +116,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Coordinator
       </td>
-      <td> Presenting, Srategical Planning, Github Content, Administrative functions
+      <td> Presenting, Strategical Planning, Github Content, Administrative functions
       </td>
       <td> Business Administration student at HM
       </td>
@@ -130,7 +130,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
        <td> Creative
       </td>
-      <td> Github content,Srategical Planning, Storyboard, Web development
+      <td> Github content,Strategical Planning, Storyboard, Web development
       </td>
       <td> Business Informatics student at HM
       </td>
