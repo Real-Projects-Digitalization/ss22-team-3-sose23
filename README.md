@@ -76,7 +76,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Monitor/Evaluator
       </td>
-      <td> Presenting, Strategical planning, Gituhb content
+      <td> Presenting, Strategical planning, Github content
       </td>
       <td> Business Administration student at HM
       </td>
