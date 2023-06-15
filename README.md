@@ -80,7 +80,9 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Business Administration student at HM
       </td>
-      <td>
+      <td><a href="mailto:jasmin.oezalp0@hm.edu">eMail</a><br>
+          <a href="https://de.linkedin.com/in/jasmin-%C3%B6zalp-533906225">LinkedIn</a><br>
+          <a href="https://www.xing.com/profile/Jasmin_Oezalp">Xing</a>
       </td>
     </tr>
       <tr>
@@ -92,7 +94,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Business Administration student at HM
       </td>
-      <td>
+      <td><a href="mailto:arnold.roemer@hm.edu">eMail</a><br>
       </td>
     </tr>
     <tr>
@@ -105,6 +107,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       <td> Business Informatics student at HM
       </td>
       <td>
+        <a href="mailto:mgalalkh@gmail.com">eMail</a><br>
+          <a href="https://www.linkedin.com/in/mo-khalil1/">LinkedIn</a><br>
       </td>
     </tr>
     <tr>
@@ -130,7 +134,8 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       </td>
       <td> Business Informatics student at HM
       </td>
-      <td>
+      <td><a href="mailto:b.andraschko@hm.edu">eMail</a><br>
+          <a href="https://www.linkedin.com/in/bastian-andraschko-1372391b9/">LinkedIn</a><br>
       </td>
     </tr>
   </table>
