@@ -6,7 +6,7 @@
 </div>
 </head>
 
-![Sofahopper Chatbot](https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![grafik](https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/15696687/bf674f6c-f2d8-4564-b7ec-6b30e65aba18)
 *Hello there, glad to see you are interested in our solution! Feel free to look around and see how we help Teenagers in Germany finding their way back to a normal life.*
 
 <div class=body>
