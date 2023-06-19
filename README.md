@@ -96,6 +96,7 @@ https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/809745
       <td> Business Administration student at HM
       </td>
       <td><a href="mailto:arnold.roemer@hm.edu">eMail</a><br>
+        <a href="https://www.linkedin.com/in/arnold-r%C3%B6mer-b49262203/">LinkedIn</a>
       </td>
     </tr>
     <tr>
