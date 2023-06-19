@@ -33,6 +33,7 @@ The challenge contribution of the Sofahopper Chatbot project lies in addressing 
 </form>
 <br>
   Watch on GitHub:
+  If the video does not load on the first try please reloading the page.
   <br>
 
 
