@@ -10,11 +10,11 @@
 
 <p>HTML_PNG</p>
 
-<img src="img/homeSofahopper.png" />
+<img src="img/homeSofahopper.png" alt="Project Image">
 
-<p>HTML_JPG</p>
+<p>HTML_JPG new</p>
 
-<img src="https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/80974503/60f3d960-609f-45b3-9833-1841b646de05" />
+<img src="img/homeSofahopper.jpg" alt="Image">
 
 *Hello there, glad to see you are interested in our solution! Feel free to look around and see how we help Teenagers in Germany finding their way back to a normal life.*
 
