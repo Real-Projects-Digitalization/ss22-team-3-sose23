@@ -8,11 +8,11 @@
 
 <p>Test 1</p>
 
-  ![homeSofahoppper](https://drive.google.com/file/d/1s52aQZ9A8_gubj7HC0gnz1boPa426Jf-/view?usp=sharing)
+  ![homeSofahoppper](https://share-your-photo.com/8e4aaa09da)
 
   <p>Test 2</p>
 
-  <img src="https://drive.google.com/file/d/1s52aQZ9A8_gubj7HC0gnz1boPa426Jf-/view?usp=sharing" />
+  <img src="https://share-your-photo.com/8e4aaa09da" />
 
 *Hello there, glad to see you are interested in our solution! Feel free to look around and see how we help Teenagers in Germany finding their way back to a normal life.*
 
