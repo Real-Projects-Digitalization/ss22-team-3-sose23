@@ -5,11 +5,14 @@
   <p>Our contribution to giving every Teenager a save place to sleep and the opportunity to make the best out of them.</p>
 </div>
 </head>
+
+![homeSofahoppper](https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/80974503/60f3d960-609f-45b3-9833-1841b646de05)
+
 <a href="https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/15696687/bf674f6c-f2d8-4564-b7ec-6b30e65aba18"></a>
   
-<img src="https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/15696687/bf674f6c-f2d8-4564-b7ec-6b30e65aba18" />
+<img src="https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/80974503/60f3d960-609f-45b3-9833-1841b646de05" />
 
-*Hi there, glad to see you are interested in our solution! Feel free to look around and see how we help Teenagers in Germany finding their way back to a normal life.*
+*Hello there, glad to see you are interested in our solution! Feel free to look around and see how we help Teenagers in Germany finding their way back to a normal life.*
 
 <div class=body>
 
