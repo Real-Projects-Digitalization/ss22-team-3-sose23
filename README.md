@@ -10,7 +10,7 @@
 
 <p>HTML_PNG</p>
 
-<img src="https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/80974503/4d4bbbde-beec-416a-a502-74ce0d25e255" />
+<img src="img/homeSofahopper.png" />
 
 <p>HTML_JPG</p>
 
