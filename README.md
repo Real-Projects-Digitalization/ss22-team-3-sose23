@@ -11,12 +11,14 @@
 <p>HTML_PNG new</p>
 
 <div class=image>
-<img src="img/homeSofahopper.png" alt="Project Image">
+<img src="https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/80974503/4d4bbbde-beec-416a-a502-74ce0d25e255" alt="Project Image">
 </div>
 
 <p>HTML_JPG new</p>
 
-<img src="img/homeSofahopper.jpg" alt="Image">
+<div class=image>
+<img src="img/homeSofahopper.jpg" alt="Project Image">
+</div>
 
 *Hello there, glad to see you are interested in our solution! Feel free to look around and see how we help Teenagers in Germany finding their way back to a normal life.*
 
