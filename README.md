@@ -8,9 +8,11 @@
 
   ![homeSofahoppper](https://github.com/Real-Projects-Digitalization/ss22-team-3-sose23/assets/80974503/4d4bbbde-beec-416a-a502-74ce0d25e255)
 
-<p>HTML_PNG</p>
+<p>HTML_PNG new</p>
 
+<div class=image>
 <img src="img/homeSofahopper.png" alt="Project Image">
+</div>
 
 <p>HTML_JPG new</p>
 
